@@ -1,9 +1,9 @@
-key='8ae09f0e-4d41-45cf-988c-545e62fe4aac'
+key='b657ee53-37fb-4805-b19b-8158b4f108ce'
 app_name="acbo"
 deviceid="32D3085F471DF87A00FB4CE43052685FE93239644F24F4E6E9B3D4EEBF0C4C764F0B76788481A7F955"
 emaill="drkipt7m@xojxe.com"
-passwordd="toyboy11"
-custompwd="pass123"
-url="https://Acc1.hoybot11.repl.co"
-chatlink="http://aminoapps.com/p/3s2yzw"
-nickname="botacc"
+passwordd="test11"
+custompwd="ixd123"
+url="https://Acc1.honeybot11.repl.co"
+chatlink="http://aminoapps.com/p/3s2pzw"
+nickname="Jkook"
