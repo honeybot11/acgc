@@ -1,4 +1,4 @@
-import amino
+import amin
 import os
 import json
 import threading
@@ -81,7 +81,7 @@ for _ in range(2):
   
   try:
     client.register(email = email,password = password,nickname = nickname, verificationCode = code,deviceId=dev)
-    sub.send_message(chatId=chatId,message="I love you")
+    sub.send_message(chatId=chatId,message="i love you")
     d={}
     d["email"]=str(email)
     d["password"]=str(password)
