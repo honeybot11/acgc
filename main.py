@@ -1,4 +1,4 @@
-import amin
+import amino
 import os
 import json
 import threading
