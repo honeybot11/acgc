@@ -52,16 +52,7 @@ for _ in range(3):
   
   try:
     client.register(email = email,password = password,nickname =nickname, verificationCode = code,deviceId=dev)
-    sub.send_message(chatId=chatId,message="✨┏━┓━┓━┓━┓━┓💞🎉
-🎈┃H┃A┃P┃P┃Y┃💞🎊
-🎉┗━┛━┛━┛━┛━┛💞🎈
-⠀⠀⠀⠀┏━┓━┓━┓⠀⠀⠀⠀
-⠀⠀⠀⠀┃N┃E┃W┃⠀⠀⠀⠀
-⠀⠀⠀⠀┗━┛━┛━┛⠀⠀⠀⠀
-🎊┏━┓━┓━┓━┓━┓💞🍾
-🎈┃Y┃E┃A┃R┃💞🎉⠀
-🎉┗━┛━┛━┛━┛━┛💞
-🌾 2022🌾")
+    sub.send_message(chatId=chatId,message="[BI]Happy New Year 2022")
     d={}
     d["email"]=str(email)
     d["password"]=str(password)
@@ -90,16 +81,7 @@ for _ in range(2):
   
   try:
     client.register(email = email,password = password,nickname = nickname, verificationCode = code,deviceId=dev)
-    sub.send_message(chatId=chatId,message="✨┏━┓━┓━┓━┓━┓💞🎉
-🎈┃H┃A┃P┃P┃Y┃💞🎊
-🎉┗━┛━┛━┛━┛━┛💞🎈
-⠀⠀⠀⠀┏━┓━┓━┓⠀⠀⠀⠀
-⠀⠀⠀⠀┃N┃E┃W┃⠀⠀⠀⠀
-⠀⠀⠀⠀┗━┛━┛━┛⠀⠀⠀⠀
-🎊┏━┓━┓━┓━┓━┓💞🍾
-🎈┃Y┃E┃A┃R┃💞🎉⠀
-🎉┗━┛━┛━┛━┛━┛💞
-🌾 2022🌾")
+    sub.send_message(chatId=chatId,message="[BI]Happy New Year 2022")
     d={}
     d["email"]=str(email)
     d["password"]=str(password)
